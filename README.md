@@ -11,7 +11,7 @@ I'm a passionate developer with interests in Retro Computing, APIs, Open Source 
 ## Projects
 Here are some of my notable projects:
 - [Amiberry](https://github.com/BlitterStudio/amiberry) - A multi-platform, open-source Amiga emulator.
-- [Host-Run]([link to project](https://github.com/BlitterStudio/host-run)) - A tiny tool that allows you to launch commands from the emulated system to the host one
+- [Host-Run](https://github.com/BlitterStudio/host-run) - A tiny tool that allows you to launch commands from the emulated system to the host one
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/dimitrispanokostas)
