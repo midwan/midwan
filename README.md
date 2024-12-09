@@ -15,6 +15,7 @@ Here are some of my notable projects:
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/dimitrispanokostas)
+- [Mastodon](https://mastodon.social/@midwan)
 - [BlueSky](https://bsky.app/profile/midwan.bsky.social)
 - [Email](mailto:midwan@gmail.com)
 
