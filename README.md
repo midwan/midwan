@@ -80,9 +80,6 @@ Amiberry runs on **Linux** (x86_64, ARM, AArch64), **macOS** (Intel & Apple Sili
 
 <div align="center">
 
-![Midwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=midwan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=midwan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=midwan&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
